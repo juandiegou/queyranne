@@ -140,4 +140,5 @@ def union(a, b):
 
 
 if __name__ == '__main__':
-  pendent_pair([1,2,3,4,5], [1,2,3,4,5], [[1,2,3],[4,5]], lambda x,y,z: sum(x) + sum(y) + z)
+
+  find_partitions([1,2,3,4,5,6,7,8,9,10],3)

@@ -141,4 +141,4 @@ def union(a, b):
 
 if __name__ == '__main__':
 
-  find_partitions([1,2,3,4,5,6,7,8,9,10],3)
+  find_partitions([1,2,3,4],3)
